@@ -1,5 +1,6 @@
-# WakeUp课程表 3.55
+# WakeUp课程表 Fork 4 SDAU 3.55
 
+优化SDAU新教务系统导入的课程重叠问题，还没写好，先不要下载。
 <img src="https://ws2.sinaimg.cn/large/006tKfTcgy1g13w95fzj4j3060060wf2.jpg" height="216">
 
 | 平台 | 下载地址 |
