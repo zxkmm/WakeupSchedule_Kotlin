@@ -1,13 +1,15 @@
 # WakeUp课程表 Fork 4 SDAU 3.55
 
-<img src="https://ws2.sinaimg.cn/large/006tKfTcgy1g13w95fzj4j3060060wf2.jpg" height="216">
+
 优化SDAU新教务系统导入的课程重叠问题，还没写好，先不要下载。
 F源：https://github.com/YZune/WakeupSchedule_Kotlin
 感谢原作者
+<!--<img src="https://ws2.sinaimg.cn/large/006tKfTcgy1g13w95fzj4j3060060wf2.jpg" height="216">
 | 平台 | 下载地址 |
 | :----: | :----: |
 | Google Play | <a href='https://play.google.com/store/apps/details?id=com.suda.yzune.wakeupschedule.pro'><img alt='Get it on Google Play' src='https://i.loli.net/2018/06/27/5b32eac49f930.png' height="60"/> |
 | 酷安 | <a href='https://www.coolapk.com/apk/159120'><img alt='去酷安下载' src='https://ws4.sinaimg.cn/large/006tNc79ly1fsphx16ybdj30go06st8q.jpg' height="60"/>|
+-->
 
 
 ## 上架情况
