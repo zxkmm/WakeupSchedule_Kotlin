@@ -2,9 +2,9 @@
 
 
 优化SDAU新教务系统导入的课程重叠问题，还没写好，先不要下载。
-F源：https://github.com/YZune/WakeupSchedule_Kotlin
+<br>Fork源：https://github.com/YZune/WakeupSchedule_Kotlin
 <br>编译好的版本网盘下载：https://www.lanzous.com/i6pbnni
-感谢原作者    感谢原作者     感谢原作者      感谢原作者      感谢原作者      感谢原作者      感谢原作者     感谢原作者      感谢原作者 
+<br>感谢原作者    感谢原作者     感谢原作者      感谢原作者      感谢原作者      感谢原作者      感谢原作者     感谢原作者      感谢原作者 
 <!--<img src="https://ws2.sinaimg.cn/large/006tKfTcgy1g13w95fzj4j3060060wf2.jpg" height="216">
 | 平台 | 下载地址 |
 | :----: | :----: |
