@@ -1,7 +1,7 @@
 # WakeUp课程表 Fork 4 SDAU 3.55
 
 
-优化SDAU新教务系统导入的课程重叠问题，还没来得及git，先下载编译好的apk用。
+优化SDAU新教务系统导入的课程重叠问题。其他地方未作更改。编译好的版本加入了我的个人信息，源码只优化问题，未改其他地方。
 <br>Fork源：https://github.com/YZune/WakeupSchedule_Kotlin
 <br>编译好的版本网盘下载：https://www.lanzous.com/i6pe86j
 <br>感谢原作者    感谢原作者     感谢原作者      感谢原作者      感谢原作者      感谢原作者      感谢原作者     感谢原作者      感谢原作者 
