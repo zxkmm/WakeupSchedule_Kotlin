@@ -1,10 +1,14 @@
 # WakeUp课程表 Fork 4 SDAU 3.55
 
-
+<p>
+<font size="30" >
 由于山农已经更换新教务系统，本fork作废<br>
-优化SDAU新教务系统导入的课程重叠问题。其他地方未作更改。编译好的版本加入了我的个人信息，源码只优化问题，未改其他地方。
+</font>
+</p>
+
+<s>优化SDAU新教务系统导入的课程重叠问题。其他地方未作更改。编译好的版本加入了我的个人信息，源码只优化问题，未改其他地方。
 <br>Fork源：https://github.com/YZune/WakeupSchedule_Kotlin
-<br>编译好的版本网盘下载：https://www.lanzous.com/i6pe86j
+<br>编译好的版本网盘下载：https://www.lanzous.com/i6pe86j   </s>
 <br>感谢原作者    感谢原作者     感谢原作者      感谢原作者      感谢原作者      感谢原作者      感谢原作者     感谢原作者      感谢原作者 
 <br>恐同者严禁使用该Fork！
 <!--<img src="https://ws2.sinaimg.cn/large/006tKfTcgy1g13w95fzj4j3060060wf2.jpg" height="216">
