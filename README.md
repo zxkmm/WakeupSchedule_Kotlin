@@ -2,7 +2,8 @@
 
 <p>
 <font size="30" >
-由于山农已经更换新教务系统，本fork作废<br>
+由于山农已经更换新教务系统，原教务系统重叠问题不复存在，请使用原项目，本fork作废<br>
+    原项目地址：https://github.com/YZune/WakeupSchedule_Kotlin  <br>
 </font>
 </p>
 
