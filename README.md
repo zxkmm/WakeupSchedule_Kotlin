@@ -1,4 +1,4 @@
-# WakeUp课程表 Fork 4 SDAU 3.55
+# WakeUp课程表 Mod 4 山东农业大学 3.55
 
 <p>
 <font size="30" >
