@@ -1,10 +1,10 @@
 # WakeUp课程表 Mod 4 山东农业大学 3.55
 
 <p>
-<font size="30" >
-由于山农已经更换新教务系统，原教务系统重叠问题不复存在，请使用原项目，本fork作废<br>
-    原项目地址：https://github.com/YZune/WakeupSchedule_Kotlin  <br>
-</font>
+
+# 由于该学校已经更换新教务系统，原教务系统重叠问题不复存在，请使用原项目，本fork作废  
+# 原项目地址：https://github.com/YZune/WakeupSchedule_Kotlin  
+
 </p>
 
 <s>优化SDAU新教务系统导入的课程重叠问题。其他地方未作更改。编译好的版本加入了我的个人信息，源码只优化问题，未改其他地方。
